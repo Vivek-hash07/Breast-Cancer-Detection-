@@ -25,11 +25,21 @@ cancer_detection.py - Core machine learning model
 requirements.txt - Python dependencies
 data/ - Folder for diagnostic datasets
 
-Developer Information
+Developer Information:-
+
+
 Vivek Sarvaiya
+
+
 Email: viveksarvaiya1873@gmail.com
+
+
 LinkedIn: https://www.linkedin.com/in/vivek-sarvaiya-40537a286/
+
+
 GitHub: https://github.com/Vivek-hash07
+
+
 
 License
 This project is licensed under the MIT License.
